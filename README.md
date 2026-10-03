@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of blomstra/test-notification-dispatcher.** Not for installation: use [Packagist](https://packagist.org/packages/blomstra/test-notification-dispatcher) or the [upstream repository](https://github.com/blomstra/flarum-ext-test-notification-dispatcher).
 
-**0** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/blomstra-test-notification-dispatcher/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/blomstra-test-notification-dispatcher/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-07-25 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-test-notification-dispatcher/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/blomstra-test-notification-dispatcher.json](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-test-notification-dispatcher.json)
 
